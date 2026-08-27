@@ -18,7 +18,7 @@ This project transforms a raw customer dataset (1,000 records) into a decision-r
 
 ## 🖼️ Dashboard Preview
 
-![alt text](image-1.png)
+<img width="758" height="682" alt="Image" src="https://github.com/user-attachments/assets/1a8ee76f-e202-43d2-a74a-ffc36f9f33ee" />
 
 ---
 
